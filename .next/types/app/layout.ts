@@ -1,4 +1,4 @@
-// File: C:\Users\Gaurav Satija\OneDrive\Documents\Chatgpt Latest clone\chatgpt-gemini-clone\src\app\layout.tsx
+// File: C:\Users\kumar\Desktop\Riko\Codes\My project\chatgpt\chatgpt-clone\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

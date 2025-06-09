@@ -1,4 +1,4 @@
-// File: C:\Users\Gaurav Satija\OneDrive\Documents\Chatgpt Latest clone\chatgpt-gemini-clone\src\app\api\gemini\route.ts
+// File: C:\Users\kumar\Desktop\Riko\Codes\My project\chatgpt\chatgpt-clone\src\app\api\gemini\route.ts
 import * as entry from '../../../../../src/app/api/gemini/route.js'
 import type { NextRequest } from 'next/server.js'
 
